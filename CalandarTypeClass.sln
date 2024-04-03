@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalandarTypeClass", "CalandarTypeClass.vcxproj", "{26326A72-FCD9-42DD-8384-88A4A725DF60}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DayTypeJoshuaTopp", "..\DayTypeJoshuaTopp\DayTypeJoshuaTopp.vcxproj", "{EC31D986-F7C9-4ABC-BFCB-9780633236EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{26326A72-FCD9-42DD-8384-88A4A725DF60}.Release|x64.Build.0 = Release|x64
 		{26326A72-FCD9-42DD-8384-88A4A725DF60}.Release|x86.ActiveCfg = Release|Win32
 		{26326A72-FCD9-42DD-8384-88A4A725DF60}.Release|x86.Build.0 = Release|Win32
+		{EC31D986-F7C9-4ABC-BFCB-9780633236EF}.Debug|x64.ActiveCfg = Debug|x64
+		{EC31D986-F7C9-4ABC-BFCB-9780633236EF}.Debug|x64.Build.0 = Debug|x64
+		{EC31D986-F7C9-4ABC-BFCB-9780633236EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC31D986-F7C9-4ABC-BFCB-9780633236EF}.Debug|x86.Build.0 = Debug|Win32
+		{EC31D986-F7C9-4ABC-BFCB-9780633236EF}.Release|x64.ActiveCfg = Release|x64
+		{EC31D986-F7C9-4ABC-BFCB-9780633236EF}.Release|x64.Build.0 = Release|x64
+		{EC31D986-F7C9-4ABC-BFCB-9780633236EF}.Release|x86.ActiveCfg = Release|Win32
+		{EC31D986-F7C9-4ABC-BFCB-9780633236EF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
