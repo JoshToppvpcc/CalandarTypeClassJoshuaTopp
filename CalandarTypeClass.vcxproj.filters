@@ -18,6 +18,9 @@
     <ClCompile Include="CalandarTypeClass.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\DayTypeJoshuaTopp\DayTypeJoshuaTopp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\CalandarClass.h">

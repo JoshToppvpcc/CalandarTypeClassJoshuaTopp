@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\DayTypeJoshuaTopp\DayTypeJoshuaTopp.cpp" />
     <ClCompile Include="CalandarTypeClass.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -9,18 +9,18 @@
 
 using namespace std;
 
-string dayOfWeek[] = { "Sunday", "Monday", "Tuesday", "Wednesday",
+string DayType::dayOfWeek[] = { "Sunday", "Monday", "Tuesday", "Wednesday",
 						"Thursday", "Friday", "Saturday" };
 void DayType::SetDay(string aDay) {
 	int index = 0;
 	for (int i = 0; i < 7; i++) {
-		if (dayOfWeek[i] == aDay) {
+		if (DayType::dayOfWeek[i] == aDay) {
 			index = i;
 			break;
 		}
 		
 	}
-	day = dayOfWeek[index];
+	day = DayType::dayOfWeek[index];
 }
 DayType::DayType(string start) {
 	SetDay(start);
